@@ -1,0 +1,14 @@
+name: TheLibrary
+main: the\library\Loader
+api: 5.0.0
+version: 1.2.0
+
+load: STARTUP
+
+commands:
+  library:
+    description: Library commands
+    permission: library.command.use
+permissions:
+  library.command.use:
+    default: op
