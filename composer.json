@@ -3,7 +3,7 @@
     "description": "TheLibrary plugin for PocketMine-MP",
     "type": "project",
     "require": {
-        "php": "^8.0",
+        "php": ">=7.4",
         "pocketmine/pocketmine-mp": "^5.0"
     },
     "autoload": {
